@@ -5,4 +5,4 @@ var intervalo = setInterval(function(){
 	if (frames == 26) {
 		clearInterval(intervalo);
 	}
-}, 50);
+}, 100);
